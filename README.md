@@ -1,6 +1,6 @@
 ## Preview
 
-![](https://github.com/mchjohn/challenge-react-native-concepts/blob/main/imgs/todo-app.gif =250x250)
+<img src="https://github.com/mchjohn/challenge-react-native-concepts/blob/main/imgs/todo-app.gif" data-canonical-src="https://github.com/mchjohn/challenge-react-native-concepts/blob/main/imgs/todo-app.gif" width="200" height="400" />
 
 ## Sobre esse projeto
 
