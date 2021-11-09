@@ -1,6 +1,6 @@
 ## Preview
 
-![](./imgs/todo-app.gif)
+![](./imgs/todo-app.gif | width=100)
 
 ## Sobre esse projeto
 
