@@ -1,6 +1,6 @@
 ## Preview
 
-<div style="position: relative; padding-bottom: 42.1875%; height: 0;"><iframe src="https://www.loom.com/embed/3c3bcebe3d804fc5b924f4c892f51d9e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![](./imgs/todo-app.gif)
 
 ## Sobre esse projeto
 
