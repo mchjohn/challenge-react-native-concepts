@@ -1,6 +1,6 @@
 ## Preview
 
-<img src="https://github.com/mchjohn/challenge-react-native-concepts/blob/main/imgs/todo-app.gif" data-canonical-src="https://github.com/mchjohn/challenge-react-native-concepts/blob/main/imgs/todo-app.gif" width="200" height="400" />
+<img src="https://github.com/mchjohn/challenge-react-native-concepts/blob/main/imgs/todo-app.gif" data-canonical-src="https://github.com/mchjohn/challenge-react-native-concepts/blob/main/imgs/todo-app.gif" width="260" height="420" />
 
 ## Sobre esse projeto
 
